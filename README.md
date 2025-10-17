@@ -30,3 +30,15 @@ Expo ofrece compatibilidad inmediata con **React Native**, soporte en **emulador
 npx create-expo-app AppContador_UT1
 cd AppContador_UT1
 npm start
+
+| Carpeta / Archivo | Descripción                                                             |
+| ----------------- | ----------------------------------------------------------------------- |
+| `app/index.tsx`   | Archivo principal con el componente del contador.                       |
+| `package.json`    | Define dependencias y scripts de ejecución.                             |
+| `app.json`        | Configuración de la aplicación Expo (nombre, versión, permisos, icono). |
+| `node_modules/`   | Dependencias instaladas automáticamente.                                |
+| `assets/`         | Carpeta para imágenes, íconos o fuentes personalizadas.                 |
+| `babel.config.js` | Configuración del compilador de React Native.                           |
+
+
+<img width="1120" height="895" alt="image" src="https://github.com/user-attachments/assets/158c45be-f4e9-442c-9cd6-099c9ed56045" />
