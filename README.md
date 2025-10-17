@@ -30,6 +30,7 @@ Expo ofrece compatibilidad inmediata con **React Native**, soporte en **emulador
 npx create-expo-app AppContador_UT1
 cd AppContador_UT1
 npm start
+```
 
 | Carpeta / Archivo | Descripción                                                             |
 | ----------------- | ----------------------------------------------------------------------- |
